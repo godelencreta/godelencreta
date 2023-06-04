@@ -1,6 +1,6 @@
 ### ¡Hola! 👋
 
-##Mi nombre es José Díaz, soy técnico en emergencias sanitaria y estudio el grado superior de Sistemas de Telecomunicaciones e Informáticos. Además, de forma autodidacta, estoy empezando en el mundo del desarrollo.
+## Mi nombre es José Díaz, soy técnico en emergencias sanitaria y estudio el grado superior de Sistemas de Telecomunicaciones e Informáticos. Además, de forma autodidacta, estoy empezando en el mundo del desarrollo.
 <!--
 **godelencreta/godelencreta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
