@@ -1,5 +1,7 @@
 # ¡Hola! 👋
 
+Mi nombre es José, soy técnico en emergencias sanitarias y estudiante del grado superior de Sistemas de Telecomunicaciones e Informáticos. Además, de forma autodidacta, estoy formándome en el ámbito del desarrollo.
+
 <!--
 ## Mi nombre es José Díaz, soy técnico en emergencias sanitarias y estudio el grado superior de Sistemas de Telecomunicaciones e Informáticos. Además, de forma autodidacta, estoy empezando en el mundo del desarrollo.
 
